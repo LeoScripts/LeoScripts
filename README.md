@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoScripts&show_icons=true&theme=highcontrast)
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoScripts&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
 
 
 
