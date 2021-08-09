@@ -22,7 +22,7 @@
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" alt="Leo-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" margin="10px" alt="Leo-ejs" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/ejs.gif">
+  
 
 </div>
 <br> 
