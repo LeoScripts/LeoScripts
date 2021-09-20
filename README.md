@@ -21,8 +21,9 @@
   
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" alt="Leo-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" height="30" width="40" alt="Leo-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> <img align="center" height="30" width="30" alt="Leo-git" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/github-icon-x.png"> <img align="center" height="30" width="30" alt="Leo-git" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/logo-mysql-mysql-logo-png-images-are-download-crazypng-211.png">  <img align="center" height="30" width="30" alt="Leo-git" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/vscode.png">
   
+
 
 </div>
 <br> 
