@@ -14,20 +14,34 @@
   
 </div>
        
-
-<div style="display: inline_block"><br>
+## Linguagens & Libs
+<div style="display: inline_block">
  
   <img align="center" height="30" width="30" alt="Leo-vue" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/ts.jpeg">
    <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Leo-Node" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/node.png">
   <img align="center" alt="Leo-React" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/react%20logo%20s.png">
-  <img align="center" height="30" width="30" alt="Leo-vue" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/vue.png"> <img align="center" height="30" width="30" alt="Leo-tailwind" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/tailwind.png"> <img align="center" height="30" width="30" alt="Leo-sass" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/sass.png"> <img align="center" height="30" width="30" alt="Leo-bootstrap" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/bootstrap.png"> 
+  <img align="center" height="30" width="30" alt="Leo-vue" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/vue.png">  
   
-  <img align="center" alt="Leo-HTML" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/html.png">
+  <img align="center" alt="Leo-HTML" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/html.png">  
+</div> <br>
+<b>Styles</b>
+<div style="display: inline_block">
+ <img align="center" height="30" width="30" alt="Leo-tailwind" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/tailwind.png"> <img align="center" height="30" width="30" alt="Leo-sass" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/sass.png"> <img align="center" height="30" width="30" alt="Leo-bootstrap" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/bootstrap.png"> 
+  
   <img align="center" alt="Leo-CSS" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/css.png">
-  <img align="center" height="30" width="40" alt="Leo-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> <img align="center" height="30" width="30" alt="Leo-git" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/github-icon-x.png"> <img align="center" height="30" width="30" alt="Leo-git" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/logo-mysql-mysql-logo-png-images-are-download-crazypng-211.png"> <img align="center" height="30" width="30" alt="Leo-git" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/vscode.png"> 
-  
-
-
+   
+</div><br>
+<b>Banco de dados</b>
+<div style="display: inline_block">
+   <img align="center" height="30" width="30" alt="Leo-git" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/logo-mysql-mysql-logo-png-images-are-download-crazypng-211.png"><img align="center" height="30" width="30" alt="Leo-PostegresSQL" src="https://github.com/LeoScripts/Mysql-Postgresql-MongoDB-Sequelize/blob/main/assets/img/postgresql-repmgr-stack-220x234.png"><img align="center" height="30" width="30" alt="Leo-MongoDB" src="https://github.com/LeoScripts/Mysql-Postgresql-MongoDB-Sequelize/blob/main/assets/img/mogo%20bd.png">  
+</div><br>
+<b>Vercionamento</b>
+<div style="display: inline_block">
+  <img align="center" height="30" width="40" alt="Leo-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> <img align="center" height="30" width="30" alt="Leo-git" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/github-icon-x.png">
+</div><br>
+<b>Editores</b>
+<div style="display: inline_block">
+  <img align="center" height="30" width="30" alt="Leo-git" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/vscode.png">
 </div>
 <br> 
 
