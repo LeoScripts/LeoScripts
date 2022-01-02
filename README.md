@@ -19,6 +19,9 @@
  
   <img align="center" height="30" width="30" alt="Leo-vue" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/ts.jpeg">
    <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Leo-Node" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/node.png">
+  <img align="center" alt="Leo-Nest" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/nestjs.svg">
+  <img align="center" alt="Leo-Next" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/next.webp">
+  
   <img align="center" alt="Leo-React" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/react%20logo%20s.png">
   <img align="center" height="30" width="30" alt="Leo-vue" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/vue.png">  
   
@@ -35,9 +38,11 @@
 <div style="display: inline_block">
    <img align="center" height="30" width="30" alt="Leo-git" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/logo-mysql-mysql-logo-png-images-are-download-crazypng-211.png"><img align="center" height="30" width="30" alt="Leo-PostegresSQL" src="https://github.com/LeoScripts/Mysql-Postgresql-MongoDB-Sequelize/blob/main/assets/img/postgresql-repmgr-stack-220x234.png"><img align="center" height="30" width="30" alt="Leo-MongoDB" src="https://github.com/LeoScripts/Mysql-Postgresql-MongoDB-Sequelize/blob/main/assets/img/mogo%20bd.png">  
 </div><br>
-<b>Vercionamento</b>
+<b>Outros</b>
 <div style="display: inline_block">
   <img align="center" height="30" width="40" alt="Leo-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> <img align="center" height="30" width="30" alt="Leo-git" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/github-icon-x.png">
+  <img align="center" alt="Leo-Docker" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/docker.png">
+  <img align="center" alt="Leo-GitLab" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/gitlab.png">
 </div><br>
 <b>Editores</b>
 <div style="display: inline_block">
