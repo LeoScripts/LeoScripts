@@ -44,10 +44,7 @@
   <img align="center" alt="Leo-Docker" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/docker.png">
   <img align="center" alt="Leo-GitLab" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/gitlab.png">
 </div><br>
-<b>Editores</b>
-<div style="display: inline_block">
-  <img align="center" height="30" width="30" alt="Leo-git" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/vscode.png">
-</div>
+
 <br> 
 
 <div>
