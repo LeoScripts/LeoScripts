@@ -38,7 +38,7 @@
 </div><br>
 <b>Outros</b>
 <div style="display: inline_block">
-  <img align="center" height="30" width="40" alt="Leo-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> <img align="center" height="30" width="30" alt="Leo-git" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/github-icon-x.png"> <img align="center" alt="Leo-Docker" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/docker.png"> <img align="center" alt="Leo-GitLab" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/gitlab.png"> <img align="center" height="30" width="30" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" >
+  <img align="center" height="30" width="40" alt="Leo-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> <img align="center" height="30" width="30" alt="Leo-git" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/github-icon-x.png"> <img align="center" alt="Leo-Docker" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/docker.png"> <img align="center" alt="Leo-GitLab" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/gitlab.png"> <img align="center" height="30" width="30" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" > <img align="center" height="30" width="30" src="https://testing-library.com/img/octopus-128x128.png">
 </div><br>
 
 <br> 
