@@ -10,7 +10,8 @@
 
  <div>
   
- <p> <img  height="100em" src="https://github-readme-stats.vercel.app/api?username=LeoScripts&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>   <img  height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoScripts&layout=compact&langs_count=7&theme=dark"/></p>
+ <p> <img  height="100em" src="https://github-readme-stats.vercel.app/api?username=LeoScripts&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>   
+   <img  height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoScripts&layout=compact&langs_count=7&theme=dark"/></p>
   
 </div>
        
@@ -29,16 +30,34 @@
 </div> <br>
 <b>Styles</b>
 <div style="display: inline_block">
- <img align="center" height="30" width="30" alt="Leo-tailwind" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/tailwind.png"> <img align="center" height="30" width="30" alt="Leo-sass" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/sass.png"> <img align="center" height="30" width="30" alt="Leo-bootstrap" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/bootstrap.png"> <img align="center" alt="Leo-CSS" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/css.png"> <img align="center" alt="Leo-styled-components" heigh="30" width="30" src="https://styled-components.com/logo.png">
+ <img align="center" height="30" width="30" alt="Leo-tailwind" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/tailwind.png"> 
+  <img align="center" height="30" width="30" alt="Leo-sass" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/sass.png"> 
+  <img align="center" height="30" width="30" alt="Leo-bootstrap" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/bootstrap.png"> 
+  <img align="center" alt="Leo-CSS" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/css.png"> 
+  <img align="center" alt="Leo-styled-components" heigh="30" width="30" src="https://styled-components.com/logo.png">
    
 </div><br>
 <b>Banco de dados</b>
+
 <div style="display: inline_block">
-   <img align="center" height="30" width="30" alt="Leo-git" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/logo-mysql-mysql-logo-png-images-are-download-crazypng-211.png"><img align="center" height="30" width="30" alt="Leo-PostegresSQL" src="https://github.com/LeoScripts/Mysql-Postgresql-MongoDB-Sequelize/blob/main/assets/img/postgresql-repmgr-stack-220x234.png"><img align="center" height="30" width="30" alt="Leo-MongoDB" src="https://github.com/LeoScripts/Mysql-Postgresql-MongoDB-Sequelize/blob/main/assets/img/mogo%20bd.png">  
+   <img align="center" height="30" width="30" alt="Leo-git" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/logo-mysql-mysql-logo-png-images-are-download-crazypng-211.png">
+  <img align="center" height="30" width="30" alt="Leo-PostegresSQL" src="https://github.com/LeoScripts/Mysql-Postgresql-MongoDB-Sequelize/blob/main/assets/img/postgresql-repmgr-stack-220x234.png">
+  <img align="center" height="30" width="30" alt="Leo-MongoDB" src="https://github.com/LeoScripts/Mysql-Postgresql-MongoDB-Sequelize/blob/main/assets/img/mogo%20bd.png">  
 </div><br>
+
+<b>Testes</b>
+<div style="display: inline_block">
+  <img align="center" height="30" width="30" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" > 
+  <img align="center" height="30" width="30" src="https://testing-library.com/img/octopus-128x128.png"> 
+</div><br>
+
 <b>Outros</b>
 <div style="display: inline_block">
-  <img align="center" height="30" width="40" alt="Leo-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> <img align="center" height="30" width="30" alt="Leo-git" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/github-icon-x.png"> <img align="center" alt="Leo-Docker" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/docker.png"> <img align="center" alt="Leo-GitLab" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/gitlab.png"> <img align="center" height="30" width="30" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" > <img align="center" height="30" width="30" src="https://testing-library.com/img/octopus-128x128.png">
+  <img align="center" height="30" width="40" alt="Leo-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
+  <img align="center" height="30" width="30" alt="Leo-git" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/github-icon-x.png"> 
+  <img align="center" alt="Leo-Docker" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/docker.png"> 
+  <img align="center" alt="Leo-GitLab" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/gitlab.png"> 
+  <img align="center" height="30" width="30" src="https://www.gstatic.com/devrel-devsite/prod/vc705ce9bd51279e80f03a51aec7c6eb1f05e56e75c958618655fc719098c9888/firebase/images/touchicon-180.png">
 </div><br>
 
 <br> 
