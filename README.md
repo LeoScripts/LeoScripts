@@ -41,7 +41,7 @@
 
 <div style="display: inline_block">
    <img align="center" height="30" width="30" alt="Leo-git" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/logo-mysql-mysql-logo-png-images-are-download-crazypng-211.png">
-  <img align="center" height="30" width="30" alt="Leo-PostegresSQL" src="https://github.com/LeoScripts/Mysql-Postgresql-MongoDB-Sequelize/blob/main/assets/img/postgresql-repmgr-stack-220x234.png">
+  <img align="center" height="30" width="30" alt="Leo-PostegresSQL" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/PG.png">
   <img align="center" height="30" width="30" alt="Leo-MongoDB" src="https://github.com/LeoScripts/Mysql-Postgresql-MongoDB-Sequelize/blob/main/assets/img/mogo%20bd.png">  
 </div><br>
 
