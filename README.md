@@ -35,6 +35,7 @@
   <img align="center" height="30" width="30" alt="Leo-bootstrap" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/bootstrap.png"> 
   <img align="center" alt="Leo-CSS" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/css.png"> 
   <img align="center" alt="Leo-styled-components" heigh="30" width="30" src="https://styled-components.com/logo.png">
+  <img align="center" alt="vuetify" heigh="30" width="30" src="https://avatars.githubusercontent.com/u/22138497?s=200&v=4" >
    
 </div><br>
 <b>Banco de dados</b>
