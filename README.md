@@ -22,12 +22,13 @@
    <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Leo-Node" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/node.png">
   <img align="center" alt="Leo-Nest" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/nestjs.svg">
   <img align="center" alt="Leo-Next" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/next.webp">
-  
   <img align="center" alt="Leo-React" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/react%20logo%20s.png">
   <img align="center" height="30" width="30" alt="Leo-vue" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/vue.png">  
-  
   <img align="center" alt="Leo-HTML" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/html.png">  
-</div> <br>
+  <img align="center" alt="quasar" height="30" width="30" src="https://cdn.quasar.dev/logo-v2/512/logo.png" >
+</div>
+
+<br>
 <b>Styles</b>
 <div style="display: inline_block">
  <img align="center" height="30" width="30" alt="Leo-tailwind" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/tailwind.png"> 
@@ -36,10 +37,11 @@
   <img align="center" alt="Leo-CSS" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/css.png"> 
   <img align="center" alt="Leo-styled-components" heigh="30" width="30" src="https://styled-components.com/logo.png">
   <img align="center" alt="vuetify" heigh="30" width="30" src="https://avatars.githubusercontent.com/u/22138497?s=200&v=4" >
-   
-</div><br>
-<b>Banco de dados</b>
+  <img align="center" alt="jquery" heigh="30" width="30" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg">
+</div>
 
+<br>
+<b>Banco de dados</b>
 <div style="display: inline_block">
    <img align="center" height="30" width="30" alt="Leo-git" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/logo-mysql-mysql-logo-png-images-are-download-crazypng-211.png">
   <img align="center" height="30" width="30" alt="Leo-PostegresSQL" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/PG.png">
