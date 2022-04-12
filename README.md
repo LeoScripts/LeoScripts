@@ -56,6 +56,7 @@
   <img align="center" alt="Leo-Docker" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/docker.png"> 
   <img align="center" alt="Leo-GitLab" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/gitlab.png"> 
   <img align="center" height="30" width="30" src="https://www.gstatic.com/devrel-devsite/prod/vc705ce9bd51279e80f03a51aec7c6eb1f05e56e75c958618655fc719098c9888/firebase/images/touchicon-180.png">
+  <img align="center" height="30" width="30" src="https://media.inkscape.org/static/images/inkscape-logo.svg">
 </div><br>
 
 <br> 
