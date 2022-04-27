@@ -43,6 +43,11 @@
   <img align="center" height="30" width="30" alt="Leo-MongoDB" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/MONGO.png">  
 </div><br>
 
+<strong>ORM</strong>
+<div>
+  <img align="center" height="30" width="100" alt="prisma" src="https://images2.prisma.io/footer-logo.png">
+</div>
+<br>
 <b>Testes</b>
 <div style="display: inline_block">
   <img align="center" height="30" width="30" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" > 
