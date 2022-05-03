@@ -4,7 +4,8 @@
  <a href="https://discord.com/#4260" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:leandroguitarjesus89@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leoscripts" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://app.slack.com/client/user_profile/U024E4C3AN4" target="_blank"><img alt="" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a> 
+<a href="https://app.slack.com/client/user_profile/U024E4C3AN4" target="_blank"><img alt="" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=LeoScripts&color=00df00)
 
 </div>
 
@@ -75,6 +76,7 @@
    <img alt="" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
    
 </div>
+
 
 
   
