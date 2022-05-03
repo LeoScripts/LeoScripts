@@ -9,7 +9,9 @@
 
 </div>
 
-<img src="https://github.com/LeoScripts/LeoScripts/blob/master/metrics.plugin.isocalendar.svg"> 
+<td align="center">
+  <img src="https://github.com/LeoScripts/LeoScripts/blob/master/metrics.plugin.isocalendar.svg">
+</td
        
 ## Linguagens & Libs
 <div style="display: inline_block">

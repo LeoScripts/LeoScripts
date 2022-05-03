@@ -11,7 +11,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    if: "github.repository == 'Nathan13888/Nathan13888'"
+    if: "github.repository == 'LeoScripts/LeoScripts'"
     steps:
       - name: 🙋 Introduction plugin
         uses: lowlighter/metrics@latest
@@ -72,7 +72,7 @@ jobs:
           plugin_wakatime_sections: time, projects-graphs, languages-graphs, editors-graphs, os-graphs
           plugin_wakatime_limit: 5
           plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: Nathan13888
+          plugin_wakatime_user: LeoScripts
 
       - name: 📌 Topics plugin
         uses: lowlighter/metrics@latest
