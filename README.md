@@ -9,7 +9,7 @@
 
 </div>
 
- 
+<img src="https://github.com/LeoScripts/LeoScripts/blob/master/metrics.plugin.isocalendar.svg"> 
        
 ## Linguagens & Libs
 <div style="display: inline_block">
