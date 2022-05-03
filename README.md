@@ -8,7 +8,7 @@
 
 </div>
  <p> <img  height="100em" src="https://github-readme-stats.vercel.app/api?username=LeoScripts&show_icons=true&theme=highcontrast&count_private=true&hide=stars,issues"/>   
-   <img  height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoScripts&layout=compact&langs_count=7&theme=dark"/>
+   <img  height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoScripts&layout=compact&langs_count=7&theme=highcontrast"/>
  </p>
        
 ## Linguagens & Libs
