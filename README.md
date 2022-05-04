@@ -47,6 +47,8 @@
 <strong>ORM</strong>
 <div>
   <img align="center" height="30" width="100" alt="prisma" src="https://images2.prisma.io/footer-logo.png">
+  <img align="center" height="30"  width="30"src="https://sequelize.org/img/logo.svg">
+  <img align="center" height="30" width="100" src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png">
 </div>
 <br>
 <b>Testes</b>
