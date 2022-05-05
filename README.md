@@ -1,4 +1,5 @@
-## Oi! Sou o Leandro Cavalcante 
+## Oi! Seja bem vindo(a) 
+Se gostou do meu codigo fique a vontade pra entrar em contato, se não estou aberto a opiniões!    
 
 <div> 
   
