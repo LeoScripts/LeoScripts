@@ -56,6 +56,7 @@
   <img align="center" height="30" width="30" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" > 
   <img align="center" height="30" width="30" src="https://testing-library.com/img/octopus-128x128.png"> 
   <img align="center" height="40" width="100" src="https://jasmine.github.io/images/jasmine-purple-horizontal.svg">
+  <img align="center" height="30" width="30" src="https://cucumber.io/cucumber/media/images/logos/icons/cucumber-open-icon.svg">
 </div><br>
 
 <b>Outros</b>
