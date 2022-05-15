@@ -24,7 +24,7 @@ Se gostou do meu codigo fique a vontade pra entrar em contato, se não estou abe
   <img align="center" height="30" width="30" alt="Leo-tailwind" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/tailwind.png">
   <img align="center" alt="Leo-Docker" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/docker.png"> 
   <img align="center" height="30" width="40" alt="Leo-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
-  <img align="center" height="30" width="100" alt="prisma" src="https://images2.prisma.io/footer-logo.png">
+  <img align="center" height="30" width="100" alt="prisma" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/prismaORM.png">
 </div>
 
 <br>
