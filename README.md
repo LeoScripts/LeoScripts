@@ -9,9 +9,7 @@ Se gostou do meu codigo fique a vontade pra entrar em contato, se não estou abe
   <a href="https://app.slack.com/client/user_profile/U024E4C3AN4" target="_blank"><img alt="" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
 
 </div>
-  <p> <img  height="100em" src="https://github-readme-stats.vercel.app/api?username=LeoScripts&show_icons=true&theme=highcontrast&count_private=true&hide=stars,issues"/>   
-  <img  height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoScripts&layout=compact&langs_count=7&theme=highcontrast"/>
- </p>
+
        
 <div style="display: inline_block">
   <img align="center" height="30" width="30" alt="Leo-vue" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/ts.jpeg">
