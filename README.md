@@ -12,17 +12,20 @@ Se gostou do meu codigo fique a vontade pra entrar em contato, se não estou abe
 
        
 <div style="display: inline_block">
-  <img align="center" height="30" width="30" alt="Leo-vue" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/ts.jpeg">
-  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leo-Node" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/node.png">
-  <img align="center" alt="Leo-React" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/react%20logo%20s.png">
-  <img align="center" height="30" width="30" alt="Leo-vue" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/vue.png">  
-  <img align="center" height="30" width="40" alt="Leo-sass" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/sass.png">
-  <img align="center" height="30" width="30" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" >
-  <img align="center" height="30" width="30" alt="Leo-tailwind" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/tailwind.png">
-  <img align="center" alt="Leo-Docker" height="30" width="30" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/docker.png"> 
-  <img align="center" height="30" width="40" alt="Leo-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
-  <img align="center" height="30" width="30" alt="prisma" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/prismaORM.png">
+  <img align="center" height="50" width="50" alt="logo Php" src="https://advancedfilemanager.com/wp-content/uploads/2021/01/php_fm.png">
+  <img align="center" height="30" width="30" alt="logo ts" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/ts.jpeg">
+  <img align="center" height="30" width="40" alt="logo Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="30" alt="logo Node" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/node.png">
+  <img align="center" height="30" width="30" alt="logo React" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/react%20logo%20s.png">
+  <img align="center" height="30" width="30" alt="log vue" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/vue.png">  
+  <img align="center" height="30" width="40" alt="logo sass" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/sass.png">
+  <img align="center" height="30" width="30" alt="logo jest" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" >
+  <img align="center" height="30" width="30" alt="logo tailwind" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/tailwind.png">
+  <img align="center" height="30" width="30" alt="logo Docker" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/docker.png"> 
+  <img align="center" height="30" width="40" alt="logo git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
+  <img align="center" height="30" width="30" alt="logo prisma" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/prismaORM.png">
+  
+  
 </div>
 
 <br>
