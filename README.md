@@ -14,6 +14,7 @@ Se gostou do meu codigo fique a vontade pra entrar em contato, se não estou abe
 <div style="display: inline_block">
   <img align="center" height="50" width="50" alt="logo Php" src="https://advancedfilemanager.com/wp-content/uploads/2021/01/php_fm.png">
   <img align="center" height="30" width="30" alt="logo Laravel" src="https://laravel.com/img/logomark.min.svg">
+  <img align="center" height="30" width="60" alt="logo PhpUnit" src="https://phpunit.de/img/phpunit.svg">
   <img align="center" height="30" width="30" alt="logo ts" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/ts.jpeg">
   <img align="center" height="30" width="40" alt="logo Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="30" alt="logo Node" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/node.png">
