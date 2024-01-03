@@ -21,7 +21,6 @@ Se gostou do meu codigo fique a vontade pra entrar em contato, se não estou abe
   <img align="center" height="30" width="30" alt="logo jest" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" >
   <img align="center" height="30" width="30" alt="logo tailwind" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/tailwind.png">
   <img align="center" height="30" width="30" alt="logo Docker" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/docker.png"> 
-  <img align="center" height="30" width="40" alt="logo git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
   <img align="center" height="30" width="30" alt="logo prisma" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/prismaORM.png">
 </div>
 
