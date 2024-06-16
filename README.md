@@ -1,5 +1,4 @@
 ## Oi! Seja bem vindo(a) 
-Se gostou do meu codigo fique a vontade pra entrar em contato, se não estou aberto a opiniões!    
 
 <div> 
   <a href = "mailto:leandroguitarjesus89@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
