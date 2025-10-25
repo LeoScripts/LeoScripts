@@ -26,14 +26,12 @@
   <img align="center" height="30" width="30" alt="logo tailwind" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/tailwind.png">
 </div>
 -->
-<!--
+
 <div style="display: inline_block">
-  <img align="center" height="30" width="30" alt="log golang" src="[https://github.com/LeoScripts/logos-imagens/blob/main/logo/golang.png](https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png)">  
-    <img align="center" height="30" width="30" alt="logo Docker" src="[https://github.com/LeoScripts/logos-imagens/blob/main/logo/docker.png](https://www.docker.com/app/uploads/2023/08/logo-dont-stretch.svg)">
-     <img align="center" height="30" width="30" alt="logo Node" src="[https://github.com/LeoScripts/logos-imagens/blob/main/logo/node.png](https://static.vecteezy.com/system/resources/previews/051/336/396/non_2x/node-js-transparent-logo-free-png.png)">
-   <img align="center" height="30" width="30" alt="logo React" src="[https://github.com/LeoScripts/logos-imagens/blob/main/logo/react%20logo%20s.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png)">
+ 
+  <img align="center" height="50" width="50" alt="log golang" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png">  
 </div>
--->
+
 
 
 
