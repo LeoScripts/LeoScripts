@@ -33,6 +33,9 @@
 <div style="display: inline_block">
  
   <img align="center" height="50" width="50" alt="log golang" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png">  
+  <img align="center" height="25" width="25" alt="log golang" src="https://www.postgresql.org/media/img/about/press/elephant.png">  
+  <img align="center" height="50" width="50" alt="log golang" src="https://www.stackhero.io/assets/src/images/servicesLogos/openGraphVersions/docker.png?d87f4381">  
+  
 </div>
 
 
