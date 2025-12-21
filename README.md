@@ -4,15 +4,16 @@
   <a href="https://www.linkedin.com/in/leoscripts" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 -->
-
+ <!--
  <div>
    <img alt="" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 
    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
   
-  <!-- <img alt="" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> -->
+  <img alt="" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 
 </div> 
+-->
        
 <!--
 <div style="display: inline_block">
@@ -29,12 +30,16 @@
   <img align="center" height="30" width="30" alt="logo tailwind" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/tailwind.png">
 </div>
 -->
-
+[![My Skills](https://skillicons.dev/icons?i=golang,aws,cloudflare,git,linux,postgres,mongodb,mysql,docker&theme=dark)](https://skillicons.dev)
 <div style="display: inline_block">
- 
+ <!--
   <img align="center" height="50" width="50" alt="log golang" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png">  
   <img align="center" height="25" width="25" alt="log golang" src="https://www.postgresql.org/media/img/about/press/elephant.png">  
   <img align="center" height="50" width="50" alt="log golang" src="https://www.stackhero.io/assets/src/images/servicesLogos/openGraphVersions/docker.png?d87f4381">  
+  -->
+  <!--
+  [![My Skills](https://skillicons.dev/icons?i=golang,aws,cloudflare,git,linux,gcp,k8s,mongodb,mysql,docker&theme=dark)](https://skillicons.dev)
+  -->
   
 </div>
 
