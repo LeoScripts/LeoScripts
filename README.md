@@ -30,7 +30,7 @@
   <img align="center" height="30" width="30" alt="logo tailwind" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/tailwind.png">
 </div>
 -->
-[![My Skills](https://skillicons.dev/icons?i=golang,aws,cloudflare,git,linux,postgres,mongodb,mysql,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=golang,git,linux,postgres,mongodb,mysql,cloudflare,aws,kafka,kubernetes,docker,html,css,js,rust&theme=dark)](https://skillicons.dev)
 <div style="display: inline_block">
  <!--
   <img align="center" height="50" width="50" alt="log golang" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png">  
